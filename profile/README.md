@@ -8,4 +8,4 @@ The AnonLinuxOS collective is working on [KOLOS](https://github.com/AnonLinuxOS/
 This decentralized hacker collective was founded on May 8th 2024 as the result of forking [JELOS](https://github.com/JustEnoughLinuxOS) right after their projects was archived, we are standing on the shoulders of [Super Giants](https://github.com/JustEnoughLinuxOS/distribution/graphs/contributors).
 
 > [!NOTE]
-> Archives of the KOLOS Linux distribution will be released in the up-coming weeks.
+> Releases of the KOLOS Linux distribution will be published in the up-coming weeks.
